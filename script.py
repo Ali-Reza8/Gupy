@@ -19,7 +19,7 @@ Y8,        88  88       88  88       d8   `8b   d8'
   `"Y88888P"    `"YbbdP'Y8  88`YbbdP"'       Y88'     
                             88               d8'      
                             88              d8'       """, color='cyan', style='bold')
-			print _.colorize(text='\r[About] an gui Generator written in python', color='green')
+print _.colorize(text='\r[About] an gui Generator written in python', color='green')
 
 
 # Syntax Doc:
