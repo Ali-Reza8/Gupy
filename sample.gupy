@@ -1,0 +1,10 @@
+#!/usr/bin/python
+
+import Tkinter
+top = Tkinter.Tk()
+
+#####################
+# Your Code Should be here :)
+#####################
+
+top.mainloop()
